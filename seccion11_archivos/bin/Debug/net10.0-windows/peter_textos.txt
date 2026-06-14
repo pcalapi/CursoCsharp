@@ -4,3 +4,4 @@ fila 3 13/6/2026 22:08:24
 despues de seleccionar fila 4 13/6/2026 22:17:57
 última prueba creo que línea 5 13/6/2026 22:21:08
 agregado manualmente sin el sistea
+agregado en git...
