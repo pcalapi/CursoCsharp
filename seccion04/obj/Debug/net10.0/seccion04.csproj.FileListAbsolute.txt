@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion04\bin\Debug\net10.0\seccion04.exe
+C:\pedrocalapi\VScursoUdemy\seccion04\bin\Debug\net10.0\seccion04.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion04\bin\Debug\net10.0\seccion04.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion04\bin\Debug\net10.0\seccion04.dll
+C:\pedrocalapi\VScursoUdemy\seccion04\bin\Debug\net10.0\seccion04.pdb
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.dll
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\refint\seccion04.dll
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.pdb
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\seccion04.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion04\obj\Debug\net10.0\ref\seccion04.dll

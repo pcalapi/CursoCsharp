@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Tarea1/Tarea1.csproj" />
+  <Project Path="HolaMundo.csproj" />
+</Solution>

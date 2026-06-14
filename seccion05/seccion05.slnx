@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../tarea05/tarea05.csproj" />
+  <Project Path="seccion05.csproj" />
+</Solution>

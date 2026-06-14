@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\calculadora2\bin\Debug\net10.0\calculadora2.exe
+C:\pedrocalapi\VScursoUdemy\calculadora2\bin\Debug\net10.0\calculadora2.deps.json
+C:\pedrocalapi\VScursoUdemy\calculadora2\bin\Debug\net10.0\calculadora2.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\calculadora2\bin\Debug\net10.0\calculadora2.dll
+C:\pedrocalapi\VScursoUdemy\calculadora2\bin\Debug\net10.0\calculadora2.pdb
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.dll
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\refint\calculadora2.dll
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.pdb
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\calculadora2.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\calculadora2\obj\Debug\net10.0\ref\calculadora2.dll

@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\bin\Debug\net10.0\seccion10_reserva_vuelos.exe
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\bin\Debug\net10.0\seccion10_reserva_vuelos.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\bin\Debug\net10.0\seccion10_reserva_vuelos.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\bin\Debug\net10.0\seccion10_reserva_vuelos.dll
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\bin\Debug\net10.0\seccion10_reserva_vuelos.pdb
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.dll
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\refint\seccion10_reserva_vuelos.dll
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.pdb
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\seccion10_reserva_vuelos.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion10_reserva_vuelos\obj\Debug\net10.0\ref\seccion10_reserva_vuelos.dll

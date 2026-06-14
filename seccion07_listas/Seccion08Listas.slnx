@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Seccion08Listas.csproj">
+    <Platform Project="x86" />
+  </Project>
+</Solution>

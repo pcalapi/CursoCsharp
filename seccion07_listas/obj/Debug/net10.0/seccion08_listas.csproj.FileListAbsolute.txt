@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\bin\Debug\net10.0\seccion08_listas.exe
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\bin\Debug\net10.0\seccion08_listas.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\bin\Debug\net10.0\seccion08_listas.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\bin\Debug\net10.0\seccion08_listas.dll
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\bin\Debug\net10.0\seccion08_listas.pdb
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.dll
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\refint\seccion08_listas.dll
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.pdb
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\seccion08_listas.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion07_listas\obj\Debug\net10.0\ref\seccion08_listas.dll

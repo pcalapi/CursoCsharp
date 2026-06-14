@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pedrocalapi\\VScursoUdemy\\seccion05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2B6962-53FA-09A4-0239-B73CF2701E19}|seccion05.csproj|c:\\pedrocalapi\\vscursoudemy\\seccion05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2B6962-53FA-09A4-0239-B73CF2701E19}|seccion05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DC535F-C6B5-198C-8C11-F22D189E5172}|..\\tarea05\\tarea05.csproj|c:\\pedrocalapi\\vscursoudemy\\tarea05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\pedrocalapi\\VScursoUdemy\\tarea05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\tarea05\\Program.cs",
+              "ToolTip": "C:\\pedrocalapi\\VScursoUdemy\\tarea05\\Program.cs",
+              "RelativeToolTip": "..\\tarea05\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T21:28:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\pedrocalapi\\VScursoUdemy\\seccion05\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\pedrocalapi\\VScursoUdemy\\seccion05\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:05:51.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

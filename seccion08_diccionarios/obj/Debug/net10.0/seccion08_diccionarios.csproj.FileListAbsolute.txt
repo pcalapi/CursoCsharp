@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\bin\Debug\net10.0\seccion08_diccionarios.exe
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\bin\Debug\net10.0\seccion08_diccionarios.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\bin\Debug\net10.0\seccion08_diccionarios.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\bin\Debug\net10.0\seccion08_diccionarios.dll
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\bin\Debug\net10.0\seccion08_diccionarios.pdb
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.dll
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\refint\seccion08_diccionarios.dll
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.pdb
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\seccion08_diccionarios.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion08_diccionarios\obj\Debug\net10.0\ref\seccion08_diccionarios.dll

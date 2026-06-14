@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\bin\Debug\net10.0\seccion07_clases.exe
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\bin\Debug\net10.0\seccion07_clases.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\bin\Debug\net10.0\seccion07_clases.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\bin\Debug\net10.0\seccion07_clases.dll
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\bin\Debug\net10.0\seccion07_clases.pdb
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.dll
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\refint\seccion07_clases.dll
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.pdb
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\seccion07_clases.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion07_clases\obj\Debug\net10.0\ref\seccion07_clases.dll

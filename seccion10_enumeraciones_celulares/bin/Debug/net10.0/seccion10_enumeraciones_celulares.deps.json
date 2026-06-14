@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "seccion10_enumeraciones_celulares/1.0.0": {
+        "runtime": {
+          "seccion10_enumeraciones_celulares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seccion10_enumeraciones_celulares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

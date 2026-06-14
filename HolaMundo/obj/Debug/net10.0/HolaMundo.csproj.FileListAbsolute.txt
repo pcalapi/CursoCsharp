@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\HolaMundo\bin\Debug\net10.0\HolaMundo.exe
+C:\pedrocalapi\VScursoUdemy\HolaMundo\bin\Debug\net10.0\HolaMundo.deps.json
+C:\pedrocalapi\VScursoUdemy\HolaMundo\bin\Debug\net10.0\HolaMundo.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\HolaMundo\bin\Debug\net10.0\HolaMundo.dll
+C:\pedrocalapi\VScursoUdemy\HolaMundo\bin\Debug\net10.0\HolaMundo.pdb
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.dll
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\refint\HolaMundo.dll
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.pdb
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\HolaMundo.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\HolaMundo\obj\Debug\net10.0\ref\HolaMundo.dll

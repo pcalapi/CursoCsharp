@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\bin\Debug\net10.0-windows\seccion11_archivos.exe
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\bin\Debug\net10.0-windows\seccion11_archivos.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\bin\Debug\net10.0-windows\seccion11_archivos.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\bin\Debug\net10.0-windows\seccion11_archivos.dll
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\bin\Debug\net10.0-windows\seccion11_archivos.pdb
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.dll
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\refint\seccion11_archivos.dll
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.pdb
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\ref\seccion11_archivos.dll

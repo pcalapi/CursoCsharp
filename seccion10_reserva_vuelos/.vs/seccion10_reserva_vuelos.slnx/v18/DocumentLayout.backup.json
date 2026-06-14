@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pedrocalapi\\VScursoUdemy\\seccion10_reserva_vuelos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353D945B-1BDF-43C0-A066-AA9DE413904D}|seccion10_reserva_vuelos.csproj|c:\\pedrocalapi\\vscursoudemy\\seccion10_reserva_vuelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353D945B-1BDF-43C0-A066-AA9DE413904D}|seccion10_reserva_vuelos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\pedrocalapi\\VScursoUdemy\\seccion10_reserva_vuelos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\pedrocalapi\\VScursoUdemy\\seccion10_reserva_vuelos\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T21:32:30.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

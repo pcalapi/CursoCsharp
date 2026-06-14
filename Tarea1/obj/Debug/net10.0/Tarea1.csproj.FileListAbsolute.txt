@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\Tarea1\bin\Debug\net10.0\Tarea1.exe
+C:\pedrocalapi\VScursoUdemy\Tarea1\bin\Debug\net10.0\Tarea1.deps.json
+C:\pedrocalapi\VScursoUdemy\Tarea1\bin\Debug\net10.0\Tarea1.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\Tarea1\bin\Debug\net10.0\Tarea1.dll
+C:\pedrocalapi\VScursoUdemy\Tarea1\bin\Debug\net10.0\Tarea1.pdb
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.dll
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\refint\Tarea1.dll
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.pdb
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\Tarea1.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\Tarea1\obj\Debug\net10.0\ref\Tarea1.dll

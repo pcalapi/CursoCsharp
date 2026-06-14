@@ -1,0 +1,14 @@
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\bin\Debug\net10.0\seccion10_enumeraciones_celulares.exe
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\bin\Debug\net10.0\seccion10_enumeraciones_celulares.deps.json
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\bin\Debug\net10.0\seccion10_enumeraciones_celulares.runtimeconfig.json
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\bin\Debug\net10.0\seccion10_enumeraciones_celulares.dll
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\bin\Debug\net10.0\seccion10_enumeraciones_celulares.pdb
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.AssemblyInfoInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.AssemblyInfo.cs
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.csproj.CoreCompileInputs.cache
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.dll
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\refint\seccion10_enumeraciones_celulares.dll
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.pdb
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\seccion10_enumeraciones_celulares.genruntimeconfig.cache
+C:\pedrocalapi\VScursoUdemy\seccion10_enumeraciones_celulares\obj\Debug\net10.0\ref\seccion10_enumeraciones_celulares.dll
