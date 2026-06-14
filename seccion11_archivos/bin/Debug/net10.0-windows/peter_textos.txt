@@ -8,3 +8,4 @@ agregado en git...
 
 
 nuevas líneas desde git
+nuevo texto para subir  git desde VS 14/6/2026 10:59:04

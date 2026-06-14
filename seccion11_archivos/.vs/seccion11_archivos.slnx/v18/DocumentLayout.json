@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\pedrocalapi\\VScursoUdemy\\seccion11_archivos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1BDB15A-29AE-4489-B254-F5B1E8316018}|seccion11_archivos.csproj|c:\\pedrocalapi\\vscursoudemy\\seccion11_archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1BDB15A-29AE-4489-B254-F5B1E8316018}|seccion11_archivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7654D991-8607-DDF1-A942-60C44E3F7CA3}|seccion11_archivos.csproj|c:\\pedrocalapi\\vscursoudemy\\seccion11_archivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7654D991-8607-DDF1-A942-60C44E3F7CA3}|seccion11_archivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\pedrocalapi\\VScursoUdemy\\seccion11_archivos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAYwFEAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T17:01:31.832Z",
               "EditorCaption": ""
