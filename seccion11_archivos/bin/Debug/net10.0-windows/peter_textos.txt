@@ -5,7 +5,6 @@ despues de seleccionar fila 4 13/6/2026 22:17:57
 última prueba creo que línea 5 13/6/2026 22:21:08
 agregado manualmente sin el sistea
 agregado en git...
-
-
 nuevas líneas desde git
 nuevo texto para subir  git desde VS 14/6/2026 10:59:04
+agregado en web... borro lineas vacías
