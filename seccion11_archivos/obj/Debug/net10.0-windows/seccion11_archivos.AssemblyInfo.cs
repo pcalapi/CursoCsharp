@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("seccion11_archivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19d93c65548bfaf30315c8a445f43891ac4efd50")]
 [assembly: System.Reflection.AssemblyProductAttribute("seccion11_archivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("seccion11_archivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

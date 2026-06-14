@@ -12,3 +12,4 @@ C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\refint\
 C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.pdb
 C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.genruntimeconfig.cache
 C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\ref\seccion11_archivos.dll
+C:\pedrocalapi\VScursoUdemy\seccion11_archivos\obj\Debug\net10.0-windows\seccion11_archivos.sourcelink.json
