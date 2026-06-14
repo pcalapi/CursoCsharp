@@ -174,7 +174,7 @@ namespace seccion11_archivos
         
         }
 
-        static void basura_pruebas_git()
+        static void pruebas()
         {
             if (!File.Exists("primer_archivo.txt"))     // busca en la ruta predeterminada del proyecto
             {
