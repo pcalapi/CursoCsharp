@@ -181,9 +181,7 @@ namespace seccion11_archivos
                 //crea el archivo
                 FileStream fs = new FileStream("primer_archivo.txt", FileMode.Create);  // crea el archivo
                 Console.WriteLine("Archivo creado en C:\\pedrocalapi\\VScursoUdemy\\seccion11_archivos\\bin\\Debug\\net10.0\\primer_archivo.txt");
-
                 fs.Close();
-
             }
             else
             {
@@ -211,8 +209,6 @@ namespace seccion11_archivos
                 Console.ReadLine();
                 texto = st.ReadToEnd();       // lea todo
                 Console.WriteLine($"el archivo contiene todo: {texto}");
-
-
                 Console.ReadLine();
             }
 
@@ -236,7 +232,6 @@ namespace seccion11_archivos
             Console.ReadKey();
 
             // agregar contenido a un archivo
-
             string nuevo_contenido = "\nContenido agregado";
             File.AppendAllText(ruta, nuevo_contenido);
             lectura_archivo = File.ReadAllText(ruta, Encoding.UTF8);
@@ -245,7 +240,6 @@ namespace seccion11_archivos
             // Mostrar en consola
             Console.WriteLine(lectura_archivo);
             Console.ReadKey();
-        }
-    
-    }
-}
+        }   // fin pruebas
+    }   // program
+}   // name space
