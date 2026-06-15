@@ -174,6 +174,9 @@ namespace seccion11_archivos
         
         }
 
+
+        // este es un recuerdo de todo lo aprendido antes de ordenar el programa con un Switch
+        // a veces sube a veces no sube
         static void pruebas_de_todo()
         {
             if (!File.Exists("primer_archivo.txt"))     // busca en la ruta predeterminada del proyecto
