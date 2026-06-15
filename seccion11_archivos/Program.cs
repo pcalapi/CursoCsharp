@@ -174,7 +174,7 @@ namespace seccion11_archivos
         
         }
 
-        static void pruebas()
+        static void pruebas_de_todo()
         {
             if (!File.Exists("primer_archivo.txt"))     // busca en la ruta predeterminada del proyecto
             {
