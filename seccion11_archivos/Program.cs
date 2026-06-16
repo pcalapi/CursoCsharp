@@ -8,6 +8,7 @@ using File = System.IO.File;
 using System.Windows;
 using Microsoft.Win32;
 using System.Windows.Forms;
+using System.Media;
 
 namespace seccion11_archivos
 {
@@ -19,18 +20,26 @@ namespace seccion11_archivos
             bool continuar = true;
             string opcion, nombre_archivo, texto_agregar;
             string ruta_y_archivo = "";
+            Console.BackgroundColor = ConsoleColor.Green;       // cambiar el color fondo de pantalla, hace lento
             do
             {
                 Console.Clear();
-                Console.WriteLine("Operaciones con Archivos");
-                Console.WriteLine("1.- Crear Archivo");
+                // tecla Windows + punto para abrir menú Iconos
+                Console.Write("");
+                Console.WriteLine("Operaciones con Archivos ");
+                Console.WriteLine("1.- Crear Archivo ©®");
                 Console.WriteLine("2.- Agregar Texto Al Archivo");
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("3.- Revisar el Archivo");
                 Console.WriteLine("4.- Ruta Del Archivo");
                 Console.WriteLine("5.- Copiar El Archivo");
                 Console.WriteLine("6.- Borrar El Archivo");
                 Console.WriteLine("7.- Seleccionar El Archivo");
-                Console.WriteLine("X.- Salir");
+                Console.WriteLine("8.- Reproducir Archivo De Sonido");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.OutputEncoding = Encoding.UTF8;     // para que se visualicen los íconos
+                Console.WriteLine("👍 X.- Salir (●'◡'●)");
+                Console.ResetColor();     // dejar en el color default de fondo pero no de las letras
 
                 Console.WriteLine("Seleccione una Opción");
                 opcion = Console.ReadLine().ToUpper();
@@ -164,7 +173,26 @@ namespace seccion11_archivos
 
 
                         break;
+                    case "8":
+                        //SoundPlayer sp = new SoundPlayer("C:\\pedrocalapi\\VScursoUdemy\\seccion11_archivos\\bin\\Debug\\net10.0-windows\\pixel-song.wav");
+                        SoundPlayer sp2 = new SoundPlayer("pixel-song.wav");    // funciona porque está en la ruta de archivos del proyecto
+                        sp2.Play();
+                        break;
                     case "X":
+                        //Console.ResetColor();
+                        Console.OutputEncoding = Encoding.UTF8;
+                        for (int i = 20; i >0; i--)
+                        {
+                            Console.Write("\r");
+                            
+                            Console.Write(new string('=', i) + "  {0}", i);
+                            Console.Beep(800, 500);
+                            //if (i < 48)
+                            //{
+                            //    Thread.Sleep(10);
+                            //}
+                        }
+                        Console.Clear();
                         continuar = false;
                         break;
                 }
